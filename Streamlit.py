@@ -388,7 +388,7 @@ with tab3:
     figma_embed_code = '''
     <iframe style="border: none; height: 690px; width: 100%; margin-right: 20px;
                   transform: scale(1) translate(0px, 0px); overflow: hidden;"
-            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FMUQ4LgVpNzi8hjL16qpw1C%2FMinor%3Fkind%3Dproto%26node-id%3D270-5411%26page-id%3D4%253A2%26scaling%3Dscale-down%26starting-point-node-id%3D270%253A5411%26t%3DAcEGxZXFjAyxLvZc-1%26type%3Ddesign%26mode%3Ddesign"
+            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiSJme8NheoXVsVGDGtXjwm%2FDouble-Diamond%3Ftype%3Ddesign%26node-id%3D1-1294%26t%3DAqOpbTHvRuFgaXws-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26mode%3Ddesign"
             allowfullscreen>
     </iframe>
     '''
