@@ -1,0 +1,6 @@
+streamlit==1.32.1
+spotipy==2.23.0
+pandas==2.2.1
+scikit-learn==1.4.1post1
+requests==2.31.0
+
